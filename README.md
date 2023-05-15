@@ -3,7 +3,7 @@ Frameworks of multi-party computation were designed in this library.
 
 # Install
 ```shell
-git clone git@github.com:safeheron/algogroup/mpc-flow-cpp.git
+git clone https://github.com/Safeheron/mpc-flow-cpp.git
 cd mpc-flow-cpp
 mkdir build && cd build
 cmake ..
