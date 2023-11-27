@@ -4,7 +4,6 @@ target_sources(${CMAKE_PROJECT_NAME} PRIVATE
         mpc-flow/mpc-parallel/LazyBCValidator.cpp
         mpc-flow/mpc-parallel-v2/mpc_context.cpp
         mpc-flow/mpc-parallel-v2/mpc_round.cpp
-        mpc-flow/mpc-parallel/LazyBCValidator_V2.cpp
         mpc-flow/common/sid_maker.cpp
         )
 
